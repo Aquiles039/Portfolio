@@ -49,10 +49,3 @@ def comp_currency(stocks, currency):
             currency = "Null"
 
     return Stock_in_criteria
-
-'''stocks= ("AC.MX", "ACTINVRB.MX", "AGUA.MX",
-         "ALFAA.MX", "ALPEKA.MX", "ALSEA.MX", "AMXB.MX", "ANB.MX", "ARA.MX", "ASURB.MX",
-         "AUTLANB.MX", "AXTELCPO.MX", "BBAJIOO.MX", "BBVA.MX", "BEVIDESB.MX", "BIMBOA.MX")
-
-lets_see= in_insutry(stocks, "Packaged Foods")
-print(lets_see)'''
